@@ -1,5 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Dimas Alif Ardiansyah</h1>
 <h3 align="center">A passionate Front End from Indonesia</h3>
+
+<img align="right" alt="Logo_Dimas" width="400" src="Logo_Dimas.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mascyberz&label=Profile%20views&color=0e75b6&style=flat" alt="mascyberz" /> </p>
 
