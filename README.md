@@ -1,11 +1,9 @@
-<<<<<<< HEAD
-
 <h1 align="center">Hi 👋, I'm Dimas Alif Ardiansyah</h1>
-=======
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dimas+Alif+Ardiansyah!;" />
 </h1>
->>>>>>> 0a46e80c592ce58cd5c14640b06e64323e6d8446
+
 <h3 align="center">A passionate Front End from Indonesia</h3>
 
 <img align="right" alt="Logo_Dimas" width="400" src="Logo_Dimas.gif">
