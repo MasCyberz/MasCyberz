@@ -8,12 +8,11 @@
 
 <h3 align="center">A passionate Front End from Indonesia</h3>
 
-<img align="right" alt="Logo_Dimas" width="400" src="Logo_Dimas.gif">
+<img align="right" alt="Logo_Dimas" width="500" src="Logo_Dimas.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mascyberz&label=Profile%20views&color=0e75b6&style=flat" alt="mascyberz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Laravel, PHP, JavaScript**
 
@@ -24,6 +23,8 @@
 - 📄 Know about my experiences [Juara Harapan 3 (LKS - Design Graphic), Juara 1 (FLS2N - Short Movie), Leader Of IT Club](Juara Harapan 3 (LKS - Design Graphic), Juara 1 (FLS2N - Short Movie), Leader Of IT Club)
 
 - ⚡ Fun fact **I am funny**
+
+<hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
