@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **dimasalifardiansyahh@gmail.com**
 
-- 📄 Know about my experiences **[Juara Harapan 3 (LKS - Design Graphic), Juara 1 (FLS2N - Short Movie), Leader Of IT Club](Juara Harapan 3 (LKS - Design Graphic), Juara 1 (FLS2N - Short Movie), Leader Of IT Club)**
+- 📄 Know about my experiences **Juara Harapan 3 (LKS - Design Graphic), Juara 1 (FLS2N - Short Movie), Leader Of IT Club**
 
 - ⚡ Fun fact **I am funny**
 
