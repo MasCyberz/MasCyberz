@@ -1,3 +1,5 @@
+[![MasterHead](welcome.gif)]
+
 <h1 align="center">Hi 👋, I'm Dimas Alif Ardiansyah</h1>
 
 <h1 align="center">
