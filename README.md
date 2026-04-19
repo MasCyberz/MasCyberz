@@ -40,11 +40,14 @@
 </div>
 
 <hr/>
-<div align="center">
+
 ![](https://github-readme-stats.shion.dev/api?username=MasCyberz&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=MasCyberz&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MasCyberz&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-</div>
+
+<hr/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <p>&nbsp;</p>
 
