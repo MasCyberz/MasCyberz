@@ -46,6 +46,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MasCyberz&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <hr/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
