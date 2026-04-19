@@ -40,12 +40,10 @@
 </div>
 
 <hr/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mascyberz&show_icons=true&locale=en&layout=compact" alt="mascyberz" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mascyberz&show_icons=true&locale=en" alt="mascyberz" />
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mascyberz&" alt="mascyberz" />
-</div>
+
+![](https://github-readme-stats.shion.dev/api?username=MasCyberz&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=MasCyberz&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MasCyberz&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <p>&nbsp;</p>
 
