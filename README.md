@@ -22,13 +22,13 @@
 
 <hr/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dimas-alif-ardiansyah-747673213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimas-alif-ardiansyah-747673213" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mascyberz?mibextid=2jq9oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mascyberz?mibextid=2jq9oc" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/dimsalif_?igsh=mw8wdxvlbzv6zwfhyw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dimsalif_?igsh=mw8wdxvlbzv6zwfhyw==" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@dimaschannel_?si=phsd756umhph3d-2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@dimaschannel_?si=phsd756umhph3d-2" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/TC24SBBt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/TC24SBBt" height="30" width="40" /></a>
+### 🌐 Connect with me:
+<p align="center">
+  <a href="https://linkedin.com/in/dimas-alif-ardiansyah-747673213" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/mascyberz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/dimsalif_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://youtube.com/@dimaschannel_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://discord.gg/TC24SBBt" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
